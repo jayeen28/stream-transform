@@ -1,0 +1,13 @@
+{
+  "name": "fringecore-backend-challenge-stream-transform-solution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "origin-server": "node ./server.mjs",
+    "start": "node ./challenge.mjs",
+    "test": "node ./test.mjs"
+  },
+  "author": "",
+  "license": "ISC"
+}
